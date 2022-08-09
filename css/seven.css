@@ -1,0 +1,48 @@
+/* Theme */
+#switcher .theme-click {
+	background-color: #009688;
+}
+/* Buttons*/
+.ra-btn {
+	background-color: #009688;
+}
+.ra-btn:focus
+{
+    background-color: #009688;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: #009688;
+}
+.testimonials-content .fa-quote-right
+{
+   color: #009688;   
+}
+
+.offers .fa:hover
+{
+   color: #009688;  
+}
+
+.contact input:focus,
+.contact textarea:focus,
+input[type=search]:focus 
+{
+    border-color: #009688;  
+    box-shadow: none;
+}
+
+.contact-details .fa:hover,
+.contact-details a:hover
+{
+    color: #009688; 
+}
+
+.footer ul li a:hover{
+     color: #009688;
+}
+
+.ra-btn-bt
+{
+     background-color: #009688;
+}

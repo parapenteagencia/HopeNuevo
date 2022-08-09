@@ -1,0 +1,48 @@
+/* Theme */
+#switcher .theme-click {
+	background-color: #7e57c2;
+}
+/* Buttons*/
+.ra-btn {
+	background-color: #7e57c2;
+}
+.ra-btn:focus
+{
+    background-color: #7e57c2;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: #7e57c2;
+}
+.testimonials-content .fa-quote-right
+{
+   color: #7e57c2;   
+}
+
+.offers .fa:hover
+{
+   color: #7e57c2;
+}
+
+.contact input:focus,
+.contact textarea:focus,
+input[type=search]:focus 
+{
+    border-color: #7e57c2; 
+    box-shadow: none;
+}
+
+.contact-details .fa:hover,
+.contact-details a:hover
+{
+    color: #7e57c2;
+}
+
+.footer ul li a:hover{
+     color: #7e57c2;  
+}
+
+.ra-btn-bt
+{
+     background-color: #7e57c2;
+}
